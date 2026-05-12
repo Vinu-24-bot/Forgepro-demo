@@ -1,0 +1,16 @@
+# ─── OS FILES ───
+.DS_Store
+Thumbs.db
+
+# ─── UNIVERSAL SHIELD (Blocks these anywhere) ───
+node_modules/
+dist/
+build/
+.env
+.env.local
+__pycache__/
+venv/
+.pytest_cache/
+*.db
+bats.db
+uploads/
