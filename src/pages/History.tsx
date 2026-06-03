@@ -19,7 +19,7 @@ const API_BASE = import.meta.env.VITE_API_URL ||
 const API_URL = `${API_BASE}/api`;
 
 // 🔐 CLIENT MASTER DELETE PASSWORD INJECTED HERE ===========
-const ADMIN_PASSWORD = import.meta.env.VITE_ADMIN_PASSWORD || "Demo4inoptra"; 
+const ADMIN_PASSWORD = import.meta.env.VITE_ADMIN_PASSWORD || "Demo4User2026"; 
 // ========================================================
 
 const fadeUp = {

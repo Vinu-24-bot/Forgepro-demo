@@ -11,8 +11,8 @@ import { toast } from "sonner";
 import Navbar from "@/components/Navbar";
 
 // 🔐 CLIENT ID AND PASSWORD INJECTED HERE =================
-const VALID_ID = "BATS_InOpTra";
-const VALID_PASSWORD = "Demo4inoptra";
+const VALID_ID = "BATS_Demo4User";
+const VALID_PASSWORD = "Demo4User2026";
 // ========================================================
 
 const fadeUp = {
